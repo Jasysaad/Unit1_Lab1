@@ -1,0 +1,13 @@
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.exe
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.deps.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.runtimeconfig.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.runtimeconfig.dev.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.dll
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\bin\Debug\netcoreapp3.1\Lab1-1207.pdb
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.csprojAssemblyReference.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.AssemblyInfoInputs.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.AssemblyInfo.cs
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.csproj.CoreCompileInputs.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.dll
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.pdb
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1-1207\Lab1-1207\obj\Debug\netcoreapp3.1\Lab1-1207.genruntimeconfig.cache
